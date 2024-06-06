@@ -41,7 +41,7 @@ You must configure some additional parameters before using the program.
 
 ### Additional Setup 
 
-1. Open constants.py
+1. Open constants.py.
 
 You should see the following:
 ```
@@ -52,7 +52,7 @@ WAIT_TIME = 35 # seconds
 SOUND_ALERT = "Shikanokonokonokokoshitantan.mp3"
 ```
 
-`PATH_TO_FOLDER` needs to be set to the path to the root folder. You should currently be in it.
+`PATH_TO_FOLDER` needs to be set to the StudyAlert root folder. You should currently be in it.
 You can find the information for `PATH_TO_CHROME_PROFILE` opening a Chrome tab and entering `chrome://version/` in the search bar and pressing enter.
 
 The profile path by default should end in `Default` if you have no other Chrome profiles. I **HIGHLY RECOMMEND** you to make an additional Chrome profile, logging into Prolific and storing your log in creditials with the new profile. **Continued in How to Use section** 
