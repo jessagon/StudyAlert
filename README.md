@@ -1,2 +1,2 @@
 # StudyAlert
-A simple Python program that will send you alerts when research studies are available (Prolific, Cloud Connect). 
+A simple Python program that will send you alerts when studies are available from research platforms (Prolific, Cloud Connect). 
