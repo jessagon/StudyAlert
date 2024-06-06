@@ -67,7 +67,7 @@ If you followed my advice, and check the profile path of your new profile, it sh
 
 1. Open main.py in an editor of your choice. 
 2. Head to line 17, where all of the chrome options are located and comment out the `options.add_argument("--headless=new")`
-Selenium doesn't store your session natively, so we have to populate it manually the first time, and in order to do that we need to turn off the headless feature for a minute.
+Selenium doesn't store your session natively, so we have to populate it manually the first time, and in order to do that we need to turn off the headless feature initially.
 3. Run main.py `python main.py`
 4. You should see the Prolific website log in pop up. Ensure you're on the right profile and log in.
 5. Once successful, terminate the program (ctrl+c) and exit the chrome browser.
