@@ -57,11 +57,11 @@ You can find the information for `PATH_TO_CHROME_PROFILE` opening a Chrome tab a
 
 The profile path by default should end in `Default` if you have no other Chrome profiles. I **HIGHLY RECOMMEND** you to make an additional Chrome profile, logging into Prolific and storing your log in creditials with the new profile. **Continued in How to Use section** 
 
-If you followed my advice, and check the profile path of your new profile, it should end in `Profile 1`, despite it being the second profile. **This is far more likely to work and give less problems.** 
+If you followed my advice, and checkED the profile path of your new profile, it should end in `Profile 1`, despite it being the second profile. **This is far more likely to work and give less problems.** 
 
 `PROFILE_TYPE` will be the last part of your path, so in most cases `Default` or `Profile 1`, etc.
 
-`WAIT_TIME ` and `SOUND_ALERT` can be adjusted as needed. By default I've given it a large amount of time to ensure the page loads for varying connection speeds. It will also account for service interruptions out of your control and will guarantee a better long term experience over speeding it up. But you can if you want to.
+`WAIT_TIME ` and `SOUND_ALERT` can be adjusted as needed. By default I've given it a large amount of time to ensure the page loads for varying connection speeds. It will also account for service interruptions out of your control and will guarantee a better long term experience over speeding it up.
   
 ### How to Use
 
