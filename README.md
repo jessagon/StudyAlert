@@ -33,7 +33,7 @@ I plan on adding plenty more features down the line, so stay tuned for that.
 
 3) Return back to the root directory and install requirements.txt. `pip install -r requirements.txt`
 
-4) You are now able to run main.py. Don't do it though. `python main.py` 
+4) You are now able to run main.py. Don't do it though.
 
 You must configure some additional parameters before using the program. 
 
