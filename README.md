@@ -28,8 +28,8 @@ I plan on adding plenty more features down the line, so stay tuned for that.
 
 2) Change directory into the scripts folder and activate the venv.
    
-`cd scripts` <br>
-`activate`
+      a) `cd scripts` <br>
+      b) `activate`
 
 3) Return back to the root directory and install requirements.txt. `pip install -r requirements.txt`
 
