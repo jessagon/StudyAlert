@@ -14,7 +14,7 @@ options = webdriver.ChromeOptions()
 options.add_argument("--user-data-dir="+PATH_TO_CHROME_PROFILE)     # chrome user data
 options.add_argument("--profile-directory="+PROFILE_TYPE)           # directory should match with profile, e.g - default or profile 1
 options.add_argument("--log-level=3")                               # only fatal errors reported
-options.add_argument("--headless=new")
+options.add_argument("--headless=new")                              # UNCOMMENT THIS FOR FIRST BOOT
 driver = webdriver.Chrome(options)
 
 # helper functions
