@@ -8,10 +8,10 @@ I plan on adding plenty more features down the line, so stay tuned for that.
 ---
 
 ### Features 
-+ Non intrusive scraping (checks every 2-3 minutes).
++ Non intrusive scraping (checks every 2-3 minutes). :hourglass_flowing_sand:
 + Sound alerts :loud_sound:
 + Prolific support :white_check_mark:
-+ Chrome support
++ Chrome support 
 
 ### Todo
 + Selenium cookies (properly store session)
