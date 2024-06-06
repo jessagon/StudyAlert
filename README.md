@@ -57,7 +57,7 @@ You can find the information for `PATH_TO_CHROME_PROFILE` opening a Chrome tab a
 
 The profile path by default should end in `Default` if you have no other Chrome profiles. I **HIGHLY RECOMMEND** you to make an additional Chrome profile, logging into Prolific and storing your log in creditials with the new profile. **Continued in How to Use section** 
 
-If you followed my advice, and checkED the profile path of your new profile, it should end in `Profile 1`, despite it being the second profile. **This is far more likely to work and give less problems.** 
+If you followed my advice, and checked the profile path of your new profile, it should end in `Profile 1`, despite it being the second profile. **This is far more likely to work and give less problems.** 
 
 `PROFILE_TYPE` will be the last part of your path, so in most cases `Default` or `Profile 1`, etc.
 
