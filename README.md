@@ -3,8 +3,6 @@ A simple Python cli application that will send you alerts when studies are avail
 
 StudyAlert currently only features sound notifications through the playsound module (.wav/.mp3 support) and initially comes with a 15s sound notification. You can change this to anything else by replacing the .mp3. 
 
-I plan on adding plenty more features down the line, so stay tuned for that.
-
 ---
 
 ### Features 
